@@ -36,6 +36,8 @@ const Loading = ({ text, color }) => {
   );
 };
 
+/* -------------------------------------------------------------------------- */
+
 Loading.propTypes = {
   text: PropTypes.string,
   color: PropTypes.string,
